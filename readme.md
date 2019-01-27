@@ -1,6 +1,6 @@
-# Phillips HUE controller for Linux terminal
+# Philips HUE controller for Linux terminal
 
-A python3 written phillips hue lights controller for linux terminal
+A python3 written philips hue lights controller for linux terminal
 
 ## How to install?
 1. Install requirements.txt
